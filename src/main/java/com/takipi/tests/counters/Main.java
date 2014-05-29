@@ -32,7 +32,9 @@ public class Main
 		SYNCHRONIZED,
 		RWLOCK,
 		ATOMIC,
-		ADDER
+		ADDER,
+		STAMPED,
+		OPTIMISTIC
 	}
 	
 	public static void main(String[] args)
